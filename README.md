@@ -2,7 +2,7 @@
 
 ## About
 
-This repo contains the artifacts created by `Leandro Kellermann de Oliveira` during my studies on the "Programa Intensivo de Containeres e Kubernetes" (i.e. Containers and Kubernetes Intensive Program).
+This repo contains the artifacts created during my studies on the "Programa Intensivo de Containeres e Kubernetes" (i.e. Containers and Kubernetes Intensive Program).
 
 ## References
 
